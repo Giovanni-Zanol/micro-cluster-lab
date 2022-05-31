@@ -1,5 +1,5 @@
 # Micro-Cluster Lab Using Docker, To Experiment With Spark & Dask on Yarn
-For more details about this project please refer to [my article](https://lemaizi.com/blog/creating-your-own-micro-cluster-lab-using-docker-to-experiment-with-spark-dask-on-yarn/) where I explain the motivations and how to recreate it by yourself.
+For more details about this project please refer to [my article](https://lemaizi.com/blog/creating-your-own-micro-cluster-lab-using-docker-to-experiment-with-spark-dask-on-yarn/) where I explain the motivations and how to recreate it by yourself. OK
 
 ### Project Folder Tree
 
