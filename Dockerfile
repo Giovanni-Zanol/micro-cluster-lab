@@ -53,4 +53,4 @@ RUN mkdir lab
 COPY notebooks/*.ipynb /root/lab/
 COPY datasets /root/lab/datasets
 
-ENTRYPOINT ["/bin/bash", "bootstrap.sh"]
+ENTRYPOINT ["/bin/bash", "bootstrap.sh"] 
